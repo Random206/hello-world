@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Start to work on login feature
+        // Do any additional setup after loading the view.
     }
 
 
